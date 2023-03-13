@@ -7,7 +7,7 @@
  */
 const USER_CONFIG = {
 
-  // 使用微信测试号：公众号APP_ID
+  USE_PASSAGE: 'push-deer',// 使用微信测试号：公众号APP_ID
   APP_ID: '',
 
   // 使用微信测试号：公众号APP_SECRET
@@ -21,7 +21,7 @@ const USER_CONFIG = {
       // 想要发送的人的名字
       name: '宝贝',
       // 使用微信测试号：扫码关注你的微信测试号后生成的一段字符串，在测试号后台能看到
-      id: '',
+      id: 'PDU20946Tr4tvZz7yVxmVVGiTCF9DfdTTVsDylT49',
       // 使用微信测试号：你想对他发送的模板消息的模板ID
       useTemplateId: '',
       // 新历生日, 仅用作获取星座运势, 格式必须为MM-DD
